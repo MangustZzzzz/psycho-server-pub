@@ -1,0 +1,4 @@
+{
+  "secretKey": "RandomVeryHardKey",
+  "secretKeyForPassword": "RandomVeryHardKeyForPassword"
+}
